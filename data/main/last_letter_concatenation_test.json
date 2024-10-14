@@ -1,0 +1,1052 @@
+[
+    {
+        "input": "Take the last letters of each words in \"Whitney Erika Tj Benito\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Whitney\" is \"y\".\nThe last letter of \"Erika\" is \"a\".\nThe last letter of \"Tj\" is \"j\".\nThe last letter of \"Benito\" is \"o\".\n\nSo, the final answer is \"yajo\".",
+        "completion": " \"yajo\".",
+        "answer": "yajo",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Elise Lupe Renee Noemi\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Elise\" is \"e\".\nThe last letter of \"Lupe\" is \"e\".\nThe last letter of \"Renee\" is \"e\".\nThe last letter of \"Noemi\" is \"i\".\n\nSo the final answer would be \"eeei\".",
+        "completion": " \"eeei\".",
+        "answer": "eeei",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Cinthia Lloyd Jacqueline Jc\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Cinthia\" is \"a\".\nThe last letter of \"Lloyd\" is \"d\".\nThe last letter of \"Jacqueline\" is \"e\".\nThe last letter of \"Jc\" is \"c\".\n\nSo the final answer would be \"adec\".",
+        "completion": " \"adec\".",
+        "answer": "adec",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Melody Ramiro Humberto Jacob\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Melody\" is \"y\".\nThe last letter of \"Ramiro\" is \"o\".\nThe last letter of \"Humberto\" is \"o\".\nThe last letter of \"Jacob\" is \"b\".\n\nSo the final answer is \"yob\".",
+        "completion": " \"yob\".",
+        "answer": "yoob",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Kristopher Deb Jake Tammy\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Kristopher\" is \"r\".\nThe last letter of \"Deb\" is \"b\".\nThe last letter of \"Jake\" is \"e\".\nThe last letter of \"Tammy\" is \"y\".\n\nSo the final answer is \"rbey\".",
+        "completion": " \"rbey\".",
+        "answer": "rbey",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Billie Paloma Tanner Raul\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Billie\" is \"e\". \nThe last letter of \"Paloma\" is \"a\". \nThe last letter of \"Tanner\" is \"r\". \nThe last letter of \"Raul\" is \"l\". \n\nIf we put all these letters together, we get \"ealr\".",
+        "completion": " \"ealr\".",
+        "answer": "earl",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Emiliano Jasmin Wade Vilma\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Emiliano\" is \"o\".\nThe last letter of \"Jasmin\" is \"n\".\nThe last letter of \"Wade\" is \"e\".\nThe last letter of \"Vilma\" is \"a\".\n\nSo the final answer would be \"onae\".",
+        "completion": " \"onae\".",
+        "answer": "onea",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Lino Mariel Aditya Elisabeth\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Lino\" is \"o\".\nThe last letter of \"Mariel\" is \"l\".\nThe last letter of \"Aditya\" is \"a\".\nThe last letter of \"Elisabeth\" is \"h\".\n\nSo the final answer is \"olah\".",
+        "completion": " \"olah\".",
+        "answer": "olah",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Phillip Ajay Janie Augusto\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Phillip\" is \"p\".\nThe last letter of \"Ajay\" is \"j\".\nThe last letter of \"Janie\" is \"e\".\nThe last letter of \"Augusto\" is \"o\".\n\nSo, the final answer is \"pjeor\".",
+        "completion": " \"pjeor\".",
+        "answer": "pyeo",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Margarita Anabel Shaun Celina\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Margarita\" is \"a\".\nThe last letter of \"Anabel\" is \"l\".\nThe last letter of \"Shaun\" is \"n\".\nThe last letter of \"Celina\" is \"a\".\n\nSo the final answer would be \"alna\".",
+        "completion": " \"alna\".",
+        "answer": "alna",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Geo Kody Isaias Giovanni\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Geo\" is \"o\".\nThe last letter of \"Kody\" is \"y\".\nThe last letter of \"Isaias\" is \"s\".\nThe last letter of \"Giovanni\" is \"i\".\n\nSo the final answer would be \"oysi\".",
+        "completion": " \"oysi\".",
+        "answer": "oysi",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Billy Kassandra Joy Abe\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Billy\" is \"y\".\nThe last letter of \"Kassandra\" is \"a\".\nThe last letter of \"Joy\" is \"y\".\nThe last letter of \"Abe\" is \"e\".\n\nSo, we can concatenate these letters to get \"yayee\".",
+        "completion": " \"yayee\".",
+        "answer": "yaye",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Nubia Sarah Jalen Kris\" and concatenate them.",
+        "chain": " \n\nNubia: aiu\nSarah:rah\nJalen:nej\nKris: sir\n\nThe final answer would be aiurahnejsir.",
+        "completion": " wrong.",
+        "answer": "ahns",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Ale Gaspar Sonny Simon\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Ale\" is \"e\".\nThe last letter of \"Gaspar\" is \"r\".\nThe last letter of \"Sonny\" is \"y\".\nThe last letter of \"Simon\" is \"n\".\n\nSo the final answer would be \"eryn\".",
+        "completion": " \"eryn\".",
+        "answer": "eryn",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Isela Leslie Stacy Ingrid\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Isela\" is \"a\".\nThe last letter of \"Leslie\" is \"e\".\nThe last letter of \"Stacy\" is \"y\".\nThe last letter of \"Ingrid\" is \"d\".\n\nSo the final answer is \"aediy\".",
+        "completion": " \"aediy\".",
+        "answer": "aeyd",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Meg Andrey Gerard Lilia\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Meg\" is \"g\".\nThe last letter of \"Andrey\" is \"y\".\nThe last letter of \"Gerard\" is \"d\".\nThe last letter of \"Lilia\" is \"a\".\n\nSo the final answer is \"gyda\".",
+        "completion": " \"gyda\".",
+        "answer": "gyda",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Cheri Rico Teo Jesus\" and concatenate them.",
+        "chain": " \n\nThe last letter of the first word is \"i\".\nThe last letter of the second word is \"o\".\nThe last letter of the third word is \"o\".\nThe last letter of the fourth word is \"s\".\n\nSo the final answer would be \"ioods\".",
+        "completion": " \"ioods\".",
+        "answer": "ioos",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Pretty Jada Sarita Allen\" and concatenate them.",
+        "chain": " \n\nThe last letter of the first word is \"y\".\nThe last letter of the second word is \"a\".\nThe last letter of the third word is \"a\".\nThe last letter of the fourth word is \"n\".\n\nSo the final answer is \"y a a n\".",
+        "completion": " \"y a a n\".",
+        "answer": "yaan",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Ashish Tracey Varun Emil\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Ashish\" is \"h\".\nThe last letter of \"Tracey\" is \"y\".\nThe last letter of \"Varun\" is \"n\".\nThe last letter of \"Emil\" is \"l\".\n\nSo the final answer would be \"hyngl\".",
+        "completion": " \"hyngl\".",
+        "answer": "hynl",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Marian Joanne Darrin Rohit\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Marian\" is \"n\".\nThe last letter of \"Joanne\" is \"e\".\nThe last letter of \"Darrin\" is \"n\".\nThe last letter of \"Rohit\" is \"t\".\n\nSo the final answer would be \"nent\".",
+        "completion": " \"nent\".",
+        "answer": "nent",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Rubi Daisy Yadira Santa\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Rubi\" is \"i\".\nThe last letter of \"Daisy\" is \"y\".\nThe last letter of \"Yadira\" is \"a\".\nThe last letter of \"Santa\" is \"a\".\n\nSo the final answer would be \"iyaa\".",
+        "completion": " \"iyaa\".",
+        "answer": "iyaa",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Rosendo Shayla Erica Georgia\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Rosendo\" is \"o\".\nThe last letter of \"Shayla\" is \"a\".\nThe last letter of \"Erica\" is \"a\".\nThe last letter of \"Georgia\" is \"a\".\n\nSo the final answer is \"oaaaa\".",
+        "completion": " \"oaaaa\".",
+        "answer": "oaaa",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Lorena Shana Priscilla Summer\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Lorena\" is \"a\".\nThe last letter of \"Shana\" is \"a\".\nThe last letter of \"Priscilla\" is \"a\".\nThe last letter of \"Summer\" is \"r\".\n\nSo the final answer would be \"aar\".",
+        "completion": " \"aar\".",
+        "answer": "aaar",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Chava Rosalia Kurt Linda\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Chava\" is \"a\".\nThe last letter of \"Rosalia\" is \"a\".\nThe last letter of \"Kurt\" is \"t\".\nThe last letter of \"Linda\" is \"a\".\n\nSo the final answer is \"aata\".",
+        "completion": " \"aata\".",
+        "answer": "aata",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Lewis Azucena Kai Ravi\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Lewis\" is \"s\".\nThe last letter of \"Azucena\" is \"a\".\nThe last letter of \"Kai\" is \"i\".\nThe last letter of \"Ravi\" is \"i\".\n\nSo the final answer is \"saai\".",
+        "completion": " \"saai\".",
+        "answer": "saii",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Faustino Lamar Fransisco Rina\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Faustino\" is \"o\".\nThe last letter of \"Lamar\" is \"r\".\nThe last letter of \"Fransisco\" is \"o\".\nThe last letter of \"Rina\" is \"a\".\n\nSo the final answer would be \"oroa\".",
+        "completion": " \"oroa\".",
+        "answer": "oroa",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Loren Wes Dean Hayley\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Loren\" is \"n\".\nThe last letter of \"Wes\" is \"s\".\nThe last letter of \"Dean\" is \"n\".\nThe last letter of \"Hayley\" is \"y\".\n\nSo the final answer would be \"nsy\".",
+        "completion": " \"nsy\".",
+        "answer": "nsny",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Maxwell Jose Beto Joe\" and concatenate them.",
+        "chain": " \n\nThe last letter of the first word is \"x.\" The last letter of the second word is \"e.\" The last letter of the third word is \"o.\" The last letter of the fourth word is \"e.\" So, we can concatenate these letters to get \"xeoe.\"",
+        "completion": " \"xeoe.\"",
+        "answer": "leoe",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Liz Andrea Suresh Vera\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Liz\" is \"z\".\nThe last letter of \"Andrea\" is \"a\".\nThe last letter of \"Suresh\" is \"h\".\nThe last letter of \"Vera\" is \"a\".\n\nNow we can put them all together. The answer is \"zah\".",
+        "completion": " \"zah\".",
+        "answer": "zaha",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Sally Sadie Christie Ellie\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Sally\" is \"y\".\nThe last letter of \"Sadie\" is \"e\".\nThe last letter of \"Christie\" is \"e\".\nThe last letter of \"Ellie\" is \"e\".\n\nSo, the final answer is \"yeee\".",
+        "completion": " \"yeee\".",
+        "answer": "yeee",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Victoria Aurora Amalia Princess\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Victoria\" is \"a\". \nThe last letter of \"Aurora\" is \"a\". \nThe last letter of \"Amalia\" is \"a\". \nThe last letter of \"Princess\" is \"s\". \n\nSo the final answer is \"aasas\".",
+        "completion": " \"aasas\".",
+        "answer": "aaas",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Alec Arianna Corina Juancarlos\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Alec\" is \"c\".\nThe last letter of \"Arianna\" is \"a\".\nThe last letter of \"Corina\" is \"a\".\nThe last letter of \"Juancarlos\" is \"s\".\n\nSo the final answer would be \"caas\".",
+        "completion": " \"caas\".",
+        "answer": "caas",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Salma Pj Gladis Monica\" and concatenate them.",
+        "chain": " \n\nThe last letter of the first word is \"a\".\nThe last letter of the second word is \"j\".\nThe last letter of the third word is \"s\".\nThe last letter of the fourth word is \"a\".\n\nTherefore, the final answer is \"ajsa\".",
+        "completion": " \"ajsa\".",
+        "answer": "ajsa",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Ralph Jeanne Kyle Alejandro\" and concatenate them.",
+        "chain": " \n\nThe last letter of the first word is \"h\".\nThe last letter of the second word is \"e\".\nThe last letter of the third word is \"e\".\nThe last letter of the fourth word is \"o\".\n\nSo the final answer is \"h-e-e-o\"",
+        "completion": " \"h-e-e-o\".",
+        "answer": "heeo",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Matilde Jan Marcel Mimi\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Matilde\" is \"e\".\nThe last letter of \"Jan\" is \"n\".\nThe last letter of \"Marcel\" is \"l\".\nThe last letter of \"Mimi\" is \"i\".\n\nIf we put all these letters together, we get \"enli\".",
+        "completion": " \"enli\".",
+        "answer": "enli",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Jes\u00fas Vidal Maxine Gloria\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Jes\u00fas\" is \"s\".\nThe last letter of \"Vidal\" is \"l\".\nThe last letter of \"Maxine\" is \"e\".\nThe last letter of \"Gloria\" is \"a\".\n\nSo, the final answer is \"sla\".",
+        "completion": " \"sla\".",
+        "answer": "slea",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Anastasia Thelma Sheri Rosita\" and concatenate them.",
+        "chain": "\n\nThe last letter of \"Anastasia\" is \"a\".\nThe last letter of \"Thelma\" is \"a\".\nThe last letter of \"Sheri\" is \"i\".\nThe last letter of \"Rosita\" is \"a\".\n\nSo the final answer is \"aiia\".",
+        "completion": " \"aiia\".",
+        "answer": "aaia",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Sid Isabelle Jackson Heidy\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Sid\" is \"d\".\nThe last letter of \"Isabelle\" is \"e\".\nThe last letter of \"Jackson\" is \"n\".\nThe last letter of \"Heidy\" is \"y\".\n\nSo the final answer is \"deney\".",
+        "completion": " \"deney\".",
+        "answer": "deny",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Carla Dolores Cooper Damion\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Carla\" is \"a\".\nThe last letter of \"Dolores\" is \"s\".\nThe last letter of \"Cooper\" is \"r\".\nThe last letter of \"Damion\" is \"n\".\n\nSo the final answer would be \"asrn\".",
+        "completion": " \"asrn\".",
+        "answer": "asrn",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Raven Marisela Ross Angie\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Raven\" is \"n\".\nThe last letter of \"Marisela\" is \"a\".\nThe last letter of \"Ross\" is \"s\".\nThe last letter of \"Angie\" is \"e\".\n\nSo the final answer is \"nase\".",
+        "completion": " \"nase\".",
+        "answer": "nase",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Zach Trenton Cary Beth\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Zach\" is \"h\".\nThe last letter of \"Trenton\" is \"n\".\nThe last letter of \"Cary\" is \"y\".\nThe last letter of \"Beth\" is \"h\".\n\nSo, the final answer would be \"hnhy\".",
+        "completion": " \"hnhy\".",
+        "answer": "hnyh",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Altagracia Howard Patti Douglas\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Altagracia\" is \"a\".\nThe last letter of \"Howard\" is \"d\".\nThe last letter of \"Patti\" is \"i\".\nThe last letter of \"Douglas\" is \"s\".\n\nSo the final answer is \"aids\".",
+        "completion": " \"aids\".",
+        "answer": "adis",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Leticia Jacinto Natasha Raphael\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Leticia\" is \"a\".\nThe last letter of \"Jacinto\" is \"o\".\nThe last letter of \"Natasha\" is \"a\".\nThe last letter of \"Raphael\" is \"l\".\n\nSo the final answer would be \"aool\".",
+        "completion": " \"aool\".",
+        "answer": "aoal",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Mickey Dom Lilly Eloy\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Mickey\" is \"y\".\nThe last letter of \"Dom\" is \"m\".\nThe last letter of \"Lilly\" is \"y\".\nThe last letter of \"Eloy\" is \"y\".\n\nSo the final answer is \"yyyy\".",
+        "completion": " \"yyyy\".",
+        "answer": "ymyy",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Garry Arielle Elba Rodney\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Garry\" is \"y\".\nThe last letter of \"Arielle\" is \"e\".\nThe last letter of \"Elba\" is \"a\".\nThe last letter of \"Rodney\" is \"y\".\n\nSo the final answer is \"yeay\".",
+        "completion": " \"yeay\".",
+        "answer": "yeay",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Sonia Griffin Claude Josephine\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Sonia\" is \"a\".\nThe last letter of \"Griffin\" is \"n\".\nThe last letter of \"Claude\" is \"e\".\nThe last letter of \"Josephine\" is \"e\".\n\nSo, the final answer would be \"anee\".",
+        "completion": " \"anee\".",
+        "answer": "anee",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Arthur Shan Norman Manny\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Arthur\" is \"r\".\nThe last letter of \"Shan\" is \"n\".\nThe last letter of \"Norman\" is \"n\".\nThe last letter of \"Manny\" is \"y\".\n\nSo the final answer is \"rnnyn\".",
+        "completion": " \"rnnyn\".",
+        "answer": "rnny",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Denis Gigi Heather Ginger\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Denis\" is \"s\".\nThe last letter of \"Gigi\" is \"i\".\nThe last letter of \"Heather\" is \"r\".\nThe last letter of \"Ginger\" is \"r\".\n\nSo, the final answer is \"sirrr\".",
+        "completion": " \"sirrr\".",
+        "answer": "sirr",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Franklin Rochelle Brent Sarai\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Franklin\" is \"n\".\nThe last letter of \"Rochelle\" is \"e\".\nThe last letter of \"Brent\" is \"t\".\nThe last letter of \"Sarai\" is \"i\".\n\nSo the final answer would be \"neiti\".",
+        "completion": " \"neiti\".",
+        "answer": "neti",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Ronnie Kiki Alan Remy\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Ronnie\" is \"y\". \nThe last letter of \"Kiki\" is \"i\". \nThe last letter of \"Alan\" is \"n\". \nThe last letter of \"Remy\" is \"y\". \n\nSo, the final answer is \"yiny\".",
+        "completion": " \"yiny\".",
+        "answer": "einy",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Fernanda Magda Elmer Alvaro\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Fernanda\" is \"a\".\nThe last letter of \"Magda\" is \"a\".\nThe last letter of \"Elmer\" is \"r\".\nThe last letter of \"Alvaro\" is \"o\".\n\nSo the final answer would be \"aaro\".",
+        "completion": " \"aaro\".",
+        "answer": "aaro",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Eugenio Moises Marion Kirk\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Eugenio\" is \"o\".\nThe last letter of \"Moises\" is \"s\".\nThe last letter of \"Marion\" is \"n\".\nThe last letter of \"Kirk\" is \"k\".\n\nSo the final answer would be \"osnk\".",
+        "completion": " \"osnk\".",
+        "answer": "osnk",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Tucker Daniel Hernandez Alison\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Tucker\" is \"r\".\nThe last letter of \"Daniel\" is \"l\".\nThe last letter of \"Hernandez\" is \"z\".\nThe last letter of \"Alison\" is \"n\".\n\nSo the final answer would be \"rlzn\".",
+        "completion": " \"rlzn\".",
+        "answer": "rlzn",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Hilario Magdalena Morris Patricio\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Hilario\" is \"o\".\nThe last letter of \"Magdalena\" is \"a\".\nThe last letter of \"Morris\" is \"s\".\nThe last letter of \"Patricio\" is \"o\".\n\nSo the final answer is \"oaso\".",
+        "completion": " \"oaso\".",
+        "answer": "oaso",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Fausto Tito Jade Terrance\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Fausto\" is \"o\".\nThe last letter of \"Tito\" is \"o\".\nThe last letter of \"Jade\" is \"e\".\nThe last letter of \"Terrance\" is \"e\".\n\nSo the final answer would be \"ooee\".",
+        "completion": " \"ooee\".",
+        "answer": "ooee",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Lucio V\u00edctor Lester Allie\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Lucio\" is \"o\".\nThe last letter of \"V\u00edctor\" is \"r\".\nThe last letter of \"Lester\" is \"r\".\nThe last letter of \"Allie\" is \"e\".\n\nSo the final answer is \"o r r e\".",
+        "completion": " \"orre\".",
+        "answer": "orre",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Debi Raymond Luis Federico\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Debi\" is \"i\".\nThe last letter of \"Raymond\" is \"d\".\nThe last letter of \"Luis\" is \"s\".\nThe last letter of \"Federico\" is \"o\".\n\nSo the final answer would be \"idso\".",
+        "completion": " \"idso\".",
+        "answer": "idso",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Janice Shelly Arnulfo Nestor\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Janice\" is \"e\".\nThe last letter of \"Shelly\" is \"y\".\nThe last letter of \"Arnulfo\" is \"o\".\nThe last letter of \"Nestor\" is \"r\".\n\nSo the final answer would be \"eyor\".",
+        "completion": " \"eyor\".",
+        "answer": "eyor",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Juan Jose Dalia Destiny Amelia\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Juan\" is \"n\".\nThe last letter of \"Jose\" is \"e\".\nThe last letter of \"Dalia\" is \"a\".\nThe last letter of \"Destiny\" is \"y\".\nThe last letter of \"Amelia\" is \"a\".\n\nIf we put all those letters together, we get \"neyaa\".",
+        "completion": " \"neyaa\".",
+        "answer": "eaya",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Peggy Trent Darrell Pamela\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Peggy\" is \"y\".\nThe last letter of \"Trent\" is \"t\".\nThe last letter of \"Darrell\" is \"l\".\nThe last letter of \"Pamela\" is \"a\".\n\nSo, we have \"ytla\".",
+        "completion": " \"ytla\".",
+        "answer": "ytla",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Sophie Gregorio Avery Pooja\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Sophie\" is \"e\".\nThe last letter of \"Gregorio\" is \"o\".\nThe last letter of \"Avery\" is \"y\".\nThe last letter of \"Pooja\" is \"a\".\n\nSo the final answer would be \"eoya\".",
+        "completion": " \"eoya\".",
+        "answer": "eoya",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Gabi Dante Rafa Tricia\" and concatenate them.",
+        "chain": " \n\nThe last letter of the first word is \"i\".\nThe last letter of the second word is \"e\".\nThe last letter of the third word is \"a\".\nThe last letter of the fourth word is \"a\".\n\nSo the final answer is \"ieaa\".",
+        "completion": " \"ieaa\".",
+        "answer": "ieaa",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Suzanne Julissa Chino America\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Suzanne\" is \"e\".\nThe last letter of \"Julissa\" is \"a\".\nThe last letter of \"Chino\" is \"o\".\nThe last letter of \"America\" is \"a\".\n\nSo the final answer is \"eaoa\".",
+        "completion": " \"eaoa\".",
+        "answer": "eaoa",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Salvatore Gustavo Jill Celeste\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Salvatore\" is \"e\". \nThe last letter of \"Gustavo\" is \"o\". \nThe last letter of \"Jill\" is \"l\". \nThe last letter of \"Celeste\" is \"e\". \n\nIf we put all these letters together, we get \"eoollee\".",
+        "completion": " \"eoollee\".",
+        "answer": "eole",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Marcy Gonzalez Alice Arlene\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Marcy\" is \"y\".\nThe last letter of \"Gonzalez\" is \"z\".\nThe last letter of \"Alice\" is \"e\".\nThe last letter of \"Arlene\" is \"e\".\n\nSo the final answer would be \"y z e e\".",
+        "completion": " \"yzeet\".",
+        "answer": "yzee",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Dana German Alvin Braden\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Dana\" is \"a\".\nThe last letter of \"German\" is \"n\".\nThe last letter of \"Alvin\" is \"n\".\nThe last letter of \"Braden\" is \"n\".\n\nSo the final answer would be \"anan\".",
+        "completion": " \"anan\".",
+        "answer": "annn",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Lacey Nora Debra Ashleigh\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Lacey\" is \"y\".\nThe last letter of \"Nora\" is \"a\".\nThe last letter of \"Debra\" is \"a\".\nThe last letter of \"Ashleigh\" is \"h\".\n\nSo the final answer is \"yahah\".",
+        "completion": " \"yahah\".",
+        "answer": "yaah",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Forrest Juanito Allan Candice\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Forrest\" is \"t\".\nThe last letter of \"Juanito\" is \"o\".\nThe last letter of \"Allan\" is \"n\".\nThe last letter of \"Candice\" is \"e\".\n\nIf we put all these letters together, we get \"tone\".",
+        "completion": " \"tone\".",
+        "answer": "tone",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Paulo Tatyana Bernice Ra\u00fal\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Paulo\" is \"o\".\nThe last letter of \"Tatyana\" is \"a\".\nThe last letter of \"Bernice\" is \"e\".\nThe last letter of \"Ra\u00fal\" is \"l\".\n\nSo the final answer is \"oael\".",
+        "completion": " \"oael\".",
+        "answer": "oael",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Efren Rex Marilyn Emerson\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Efren\" is \"n\".\nThe last letter of \"Rex\" is \"x\".\nThe last letter of \"Marilyn\" is \"n\".\nThe last letter of \"Emerson\" is \"n\".\n\nIf we put all these letters together, we get \"nxnn\".",
+        "completion": " \"nxnn\".",
+        "answer": "nxnn",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Lynda Danilo Jonny Judith\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Lynda\" is \"a\".\nThe last letter of \"Danilo\" is \"o\".\nThe last letter of \"Jonny\" is \"y\".\nThe last letter of \"Judith\" is \"h\".\n\nSo the final answer is \"aohy\".",
+        "completion": " \"aohy\".",
+        "answer": "aoyh",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Virginia Juanita Zak Wayne\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Virginia\" is \"a\".\nThe last letter of \"Juanita\" is \"a\".\nThe last letter of \"Zak\" is \"k\".\nThe last letter of \"Wayne\" is \"e\".\n\nTherefore, the answer is \"aake\".",
+        "completion": " \"aake\".",
+        "answer": "aake",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Mari Ximena Leo Antonia\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Mari\" is \"i\".\nThe last letter of \"Ximena\" is \"a\".\nThe last letter of \"Leo\" is \"o\".\nThe last letter of \"Antonia\" is \"a\".\n\nSo the final answer would be \"iaoa\".",
+        "completion": " \"iaoa\".",
+        "answer": "iaoa",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Salvador Sol Tyler Kareem\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Salvador\" is \"r\". \nThe last letter of \"Sol\" is \"l\". \nThe last letter of \"Tyler\" is \"r\". \nThe last letter of \"Kareem\" is \"m\". \n\nSo, the final answer is \"rlrm\".",
+        "completion": " \"rlrm\".",
+        "answer": "rlrm",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Dallas Uriel Brendan Julian\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Dallas\" is \"s\".\nThe last letter of \"Uriel\" is \"l\".\nThe last letter of \"Brendan\" is \"n\".\nThe last letter of \"Julian\" is \"n\".\n\nSo the final answer would be \"slnn\".",
+        "completion": " \"slnn\".",
+        "answer": "slnn",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Ernest Yuri Camila Ashlee\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Ernest\" is \"t\".\nThe last letter of \"Yuri\" is \"i\".\nThe last letter of \"Camila\" is \"a\".\nThe last letter of \"Ashlee\" is \"e\".\n\nIf we put all these letters together, we get \"tiiae\".",
+        "completion": " \"tiiae\".",
+        "answer": "tiae",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Jim Dwayne Ricky Artemio\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Jim\" is \"m\".\nThe last letter of \"Dwayne\" is \"e\".\nThe last letter of \"Ricky\" is \"y\".\nThe last letter of \"Artemio\" is \"o\".\n\nSo, the final answer is \"memyo\".",
+        "completion": " \"memyo\".",
+        "answer": "meyo",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Julia Kirsten Pam Adan\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Julia\" is \"a\".\nThe last letter of \"Kirsten\" is \"n\".\nThe last letter of \"Pam\" is \"m\".\nThe last letter of \"Adan\" is \"n\".\n\nSo the final answer is \"an\".",
+        "completion": " \"an\".",
+        "answer": "anmn",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Jaime Brad Levi Emmanuel\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Jaime\" is \"e\".\nThe last letter of \"Brad\" is \"d\".\nThe last letter of \"Levi\" is \"i\".\nThe last letter of \"Emmanuel\" is \"l\".\n\nSo the final answer is \"edil\".",
+        "completion": " \"edil\".",
+        "answer": "edil",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Kristie Johnnie Marisa Derick\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Kristie\" is \"e\".\nThe last letter of \"Johnnie\" is \"e\".\nThe last letter of \"Marisa\" is \"a\".\nThe last letter of \"Derick\" is \"k\".\n\nSo, we would concatenate \"e\", \"e\", \"a\", and \"k\" to get \"eeak\".",
+        "completion": " \"eeak\".",
+        "answer": "eeak",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Wilfredo Abby Karthik Perry\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Wilfredo\" is \"o\".\nThe last letter of \"Abby\" is \"y\".\nThe last letter of \"Karthik\" is \"k\".\nThe last letter of \"Perry\" is \"y\".\n\nSo the final answer is \"oyky\".",
+        "completion": " \"oyky\".",
+        "answer": "oyky",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Selene Felix Milton Yessica\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Selene\" is \"e\".\nThe last letter of \"Felix\" is \"x\".\nThe last letter of \"Milton\" is \"n\".\nThe last letter of \"Yessica\" is \"a\".\n\nSo, we can concatenate these letters to get \"exna\".",
+        "completion": " \"exna\".",
+        "answer": "exna",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Alexander Marina Valentina Mila\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Alexander\" is \"r\".\nThe last letter of \"Marina\" is \"a\".\nThe last letter of \"Valentina\" is \"a\".\nThe last letter of \"Mila\" is \"a\".\n\nSo the final answer is \"r-a-a-a\".",
+        "completion": " \"r-a-a-a\".",
+        "answer": "raaa",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Les Jun Noe Juliana\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Les\" is \"s\".\nThe last letter of \"Jun\" is \"n\".\nThe last letter of \"Noe\" is \"e\".\nThe last letter of \"Juliana\" is \"a\".\n\nSo the final answer is \"snea\".",
+        "completion": " \"snea\".",
+        "answer": "snea",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Rosario Manoj Adolfo Reina\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Rosario\" is \"o\".\nThe last letter of \"Manoj\" is \"j\".\nThe last letter of \"Adolfo\" is \"o\".\nThe last letter of \"Reina\" is \"a\".\n\nSo the final answer is \"ojoa\".",
+        "completion": " \"ojoa\".",
+        "answer": "ojoa",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Lora Alberto Cathy Kara\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Lora\" is \"a\".\nThe last letter of \"Alberto\" is \"o\".\nThe last letter of \"Cathy\" is \"y\".\nThe last letter of \"Kara\" is \"a\".\n\nSo the final answer is \"aooay\".",
+        "completion": " \"aooay\".",
+        "answer": "aoya",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Missy Erin Lorna Lenny\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Missy\" is \"y\".\nThe last letter of \"Erin\" is \"n\".\nThe last letter of \"Lorna\" is \"a\".\nThe last letter of \"Lenny\" is \"y\".\n\nSo the final answer is \"ynay\".",
+        "completion": " \"ynay\".",
+        "answer": "ynay",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Claudia Cole Matthew Juan Pablo\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Claudia\" is \"a\".\nThe last letter of \"Cole\" is \"e\".\nThe last letter of \"Matthew\" is \"h\".\nThe last letter of \"Juan\" is \"n\".\nThe last letter of \"Pablo\" is \"o\".\n\nSo the final answer is \"aehno\".",
+        "completion": " \"aehno\".",
+        "answer": "aewo",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Arturo Dominick Christa Myles\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Arturo\" is \"o\".\nThe last letter of \"Dominick\" is \"k\".\nThe last letter of \"Christa\" is \"a\".\nThe last letter of \"Myles\" is \"s\".\n\nSo the final answer is \"okas\".",
+        "completion": " \"okas\".",
+        "answer": "okas",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Marc Doris Ernie Gary\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Marc\" is \"c\".\nThe last letter of \"Doris\" is \"s\".\nThe last letter of \"Ernie\" is \"e\".\nThe last letter of \"Gary\" is \"y\".\n\nSo the final answer would be \"cseyr\".",
+        "completion": " \"cseyr\".",
+        "answer": "csey",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Miriam Brandy Bertha Renato\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Miriam\" is \"m\".\nThe last letter of \"Brandy\" is \"y\".\nThe last letter of \"Bertha\" is \"a\".\nThe last letter of \"Renato\" is \"o\".\n\nSo the final answer would be \"myao\".",
+        "completion": " \"myao\".",
+        "answer": "myao",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Abel Mallory Theresa Quinn\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Abel\" is \"l\".\nThe last letter of \"Mallory\" is \"y\".\nThe last letter of \"Theresa\" is \"a\".\nThe last letter of \"Quinn\" is \"n\".\n\nSo, the final answer is \"lyan\".",
+        "completion": " \"lyan\".",
+        "answer": "lyan",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Guille Lisa Harvey Gina\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Guille\" is \"e\".\nThe last letter of \"Lisa\" is \"a\".\nThe last letter of \"Harvey\" is \"y\".\nThe last letter of \"Gina\" is \"a\".\n\nSo the final answer is \"eayaa\".",
+        "completion": " \"eayaa\".",
+        "answer": "eaya",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Arnold Aidan Ally Ami\" and concatenate them.",
+        "chain": " \n\nThe last letter of the first word is \"d\".\nThe last letter of the second word is \"n\".\nThe last letter of the third word is \"y\".\nThe last letter of the fourth word is \"i\".\n\nSo the final answer is \"dnyi\".",
+        "completion": " \"dnyi\".",
+        "answer": "dnyi",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Logan Ely Abbie Colleen\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Logan\" is \"n\".\nThe last letter of \"Ely\" is \"y\".\nThe last letter of \"Abbie\" is \"e\".\nThe last letter of \"Colleen\" is \"n\".\n\nSo the final answer is \"nyen\".",
+        "completion": " \"nyen\".",
+        "answer": "nyen",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Kristy Brandi Lizeth Petra\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Kristy\" is \"y\".\nThe last letter of \"Brandi\" is \"i\".\nThe last letter of \"Lizeth\" is \"h\".\nThe last letter of \"Petra\" is \"a\".\n\nSo, we have \"y\" + \"i\" + \"h\" + \"a\" = \"yiha\".",
+        "completion": " \"yiha\".",
+        "answer": "yiha",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Lupita Cyndi Kay Derrick\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Lupita\" is \"a\".\nThe last letter of \"Cyndi\" is \"i\".\nThe last letter of \"Kay\" is \"y\".\nThe last letter of \"Derrick\" is \"k\".\n\nSo the final answer would be \"aiyk\".",
+        "completion": " \"aiyk\".",
+        "answer": "aiyk",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Felipe Heidi Nino Bradley\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Felipe\" is \"e\".\nThe last letter of \"Heidi\" is \"i\".\nThe last letter of \"Nino\" is \"o\".\nThe last letter of \"Bradley\" is \"y\".\n\nSo, the final answer would be \"eiofy\".",
+        "completion": " \"eiofy\".",
+        "answer": "eioy",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Dorian Mayra Freddie Magaly\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Dorian\" is \"n\". \nThe last letter of \"Mayra\" is \"a\". \nThe last letter of \"Freddie\" is \"e\". \nThe last letter of \"Magaly\" is \"y\". \n\nIf we put all these letters together, we get \"n-a-e-y\".",
+        "completion": " \"n-a-e-y\".",
+        "answer": "naey",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Ace Rosy Kimberly Jean\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Ace\" is \"e\".\nThe last letter of \"Rosy\" is \"y\".\nThe last letter of \"Kimberly\" is \"y\".\nThe last letter of \"Jean\" is \"n\".\n\nSo, the final answer is \"eyyn\".",
+        "completion": " \"eyyn\".",
+        "answer": "eyyn",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Jeremy Simone Alondra Wyatt\" and concatenate them.",
+        "chain": " \n\nThe last letter of the first word is \"y\".\nThe last letter of the second word is \"e\".\nThe last letter of the third word is \"a\".\nThe last letter of the fourth word is \"t\".\n\nSo the final answer is \"yeat\".",
+        "completion": " \"yeat\".",
+        "answer": "yeat",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Chance Valentin Micah Clara\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Chance\" is \"e\".\nThe last letter of \"Valentin\" is \"n\".\nThe last letter of \"Micah\" is \"h\".\nThe last letter of \"Clara\" is \"a\".\n\nSo the final answer is \"enha\".",
+        "completion": " \"enha\".",
+        "answer": "enha",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Pedro Leopoldo Tee Mar\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Pedro\" is \"o\".\nThe last letter of \"Leopoldo\" is \"o\".\nThe last letter of \"Tee\" is \"e\".\nThe last letter of \"Mar\" is \"r\".\n\nSo, the answer is \"oor\".",
+        "completion": " \"oor\".",
+        "answer": "ooer",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Barbie Desiree Yaneth Dre\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Barbie\" is \"e\". \nThe last letter of \"Desiree\" is \"e\". \nThe last letter of \"Yaneth\" is \"h\". \nThe last letter of \"Dre\" is \"e\". \n\nIf we put all these letters together, we get \"eeeh\".",
+        "completion": " \"eeeh\".",
+        "answer": "eehe",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Philip Antony Iris Alicia\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Philip\" is \"p\".\nThe last letter of \"Antony\" is \"y\".\nThe last letter of \"Iris\" is \"s\".\nThe last letter of \"Alicia\" is \"a\".\n\nSo, the final answer is \"pysa\".",
+        "completion": " \"pysa\".",
+        "answer": "pysa",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Corey Elvin Tino Melvin\" and concatenate them.",
+        "chain": " \n\nThe last letter of the first word is \"y\".\nThe last letter of the second word is \"n\".\nThe last letter of the third word is \"o\".\nThe last letter of the fourth word is \"n\".\n\nSo the final answer is \"ynon\".",
+        "completion": " \"ynon\".",
+        "answer": "ynon",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Fred Nolan Johnathan Carson\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Fred\" is \"d\".\nThe last letter of \"Nolan\" is \"n\".\nThe last letter of \"Johnathan\" is \"n\".\nThe last letter of \"Carson\" is \"n\".\n\nSo the final answer is \"dnnn\".",
+        "completion": " \"dnnn\".",
+        "answer": "dnnn",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Caroline Demetrius Fidel Solomon\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Caroline\" is \"e\".\nThe last letter of \"Demetrius\" is \"s\".\nThe last letter of \"Fidel\" is \"l\".\nThe last letter of \"Solomon\" is \"n\".\n\nSo, we have \"esln\".",
+        "completion": " \"esln\".",
+        "answer": "esln",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Julio Sidney Aiden Shay\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Julio\" is \"o\".\nThe last letter of \"Sidney\" is \"y\".\nThe last letter of \"Aiden\" is \"n\".\nThe last letter of \"Shay\" is \"y\".\n\nSo, the final answer would be \"oyny\".",
+        "completion": " \"oyny\".",
+        "answer": "oyny",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Mabel Estela Irene May\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Mabel\" is \"l\".\nThe last letter of \"Estela\" is \"a\".\nThe last letter of \"Irene\" is \"e\".\nThe last letter of \"May\" is \"y\".\n\nSo the final answer is \"laely\".",
+        "completion": " \"laely\".",
+        "answer": "laey",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Todd Joni Gil Fran\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Todd\" is \"d\".\nThe last letter of \"Joni\" is \"i\".\nThe last letter of \"Gil\" is \"l\".\nThe last letter of \"Fran\" is \"n\".\n\nSo the final answer is \"diln\".",
+        "completion": " \"diln\".",
+        "answer": "diln",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Tori Mariam Gaby Brayan\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Tori\" is \"i\".\nThe last letter of \"Mariam\" is \"m\".\nThe last letter of \"Gaby\" is \"y\".\nThe last letter of \"Brayan\" is \"n\".\n\nSo the final answer would be \"imyn\".",
+        "completion": " \"imyn\".",
+        "answer": "imyn",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Michel Roy Sergey Jessie\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Michel\" is \"l\".\nThe last letter of \"Roy\" is \"y\".\nThe last letter of \"Sergey\" is \"y\".\nThe last letter of \"Jessie\" is \"e\".\n\nSo, we can concatenate them and get \"lyye\".",
+        "completion": " \"lyye\".",
+        "answer": "lyye",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Guadalupe Ebony Wil Luke\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Guadalupe\" is \"e\".\nThe last letter of \"Ebony\" is \"y\".\nThe last letter of \"Wil\" is \"l\".\nThe last letter of \"Luke\" is \"e\".\n\nSo the final answer is \"eyle\".",
+        "completion": " \"eyle\".",
+        "answer": "eyle",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Bill Santos Roxy Randi\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Bill\" is \"l\".\nThe last letter of \"Santos\" is \"s\".\nThe last letter of \"Roxy\" is \"y\".\nThe last letter of \"Randi\" is \"i\".\n\nSo, the final answer would be \"lsyi\".",
+        "completion": " \"lsyi\".",
+        "answer": "lsyi",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Daphne Lola Joanna Sheena\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Daphne\" is \"e\".\nThe last letter of \"Lola\" is \"a\".\nThe last letter of \"Joanna\" is \"a\".\nThe last letter of \"Sheena\" is \"a\".\n\nSo the final answer would be \"eaaa\".",
+        "completion": " \"eaaa\".",
+        "answer": "eaaa",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Juan Manuel Benjamin Rory Rafael\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Juan\" is \"n\".\nThe last letter of \"Manuel\" is \"l\".\nThe last letter of \"Benjamin\" is \"n\".\nThe last letter of \"Rory\" is \"y\".\nThe last letter of \"Rafael\" is \"l\".\n\nIf we put all these letters together, we get \"nlly\".",
+        "completion": " \"nlly\".",
+        "answer": "lnyl",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Fermin Berenice Marianne Eleanor\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Fermin\" is \"n\".\nThe last letter of \"Berenice\" is \"e\".\nThe last letter of \"Marianne\" is \"e\".\nThe last letter of \"Eleanor\" is \"r\".\n\nSo the final answer would be \"nerre\".",
+        "completion": " \"nerre\".",
+        "answer": "neer",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Sabrina Pete Mary La\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Sabrina\" is \"a\".\nThe last letter of \"Pete\" is \"e\".\nThe last letter of \"Mary\" is \"y\".\nThe last letter of \"La\" is \"a\".\n\nSo the final answer is \"aeya\".",
+        "completion": " \"aeya\".",
+        "answer": "aeya",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Sean Rebeca Marco Sami\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Sean\" is \"n\".\nThe last letter of \"Rebeca\" is \"a\".\nThe last letter of \"Marco\" is \"o\".\nThe last letter of \"Sami\" is \"i\".\n\nIf we put all these letters together, we get \"n-a-o-i\", which is not the answer. What did we do wrong?\n\nWe forgot to put a space between each letter! If we put a space between each letter, we get \"n a o i\", which is the correct answer.",
+        "completion": " \"n a o i\".",
+        "answer": "naoi",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Justin Neal Jt Lucia\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Justin\" is \"n\".\nThe last letter of \"Neal\" is \"l\".\nThe last letter of \"Jt\" is \"t\".\nThe last letter of \"Lucia\" is \"a\".\n\nSo the final answer would be \"nlta\".",
+        "completion": " \"nlta\".",
+        "answer": "nlta",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Kathy Elsa Alba Ivette\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Kathy\" is \"y\".\nThe last letter of \"Elsa\" is \"a\".\nThe last letter of \"Alba\" is \"a\".\nThe last letter of \"Ivette\" is \"e\".\n\nSo the final answer is \"yaeae\".",
+        "completion": " \"yaeae\".",
+        "answer": "yaae",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Leon Payton Stefan Javi\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Leon\" is \"n\".\nThe last letter of \"Payton\" is \"n\".\nThe last letter of \"Stefan\" is \"n\".\nThe last letter of \"Javi\" is \"i\".\n\nIf we concatenate these letters, we get \"nni\".",
+        "completion": " \"nni\".",
+        "answer": "nnni",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Andres Mary Ann Sydney Dina\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Andres\" is \"s\".\nThe last letter of \"Mary\" is \"y\".\nThe last letter of \"Ann\" is \"n\".\nThe last letter of \"Sydney\" is \"y\".\nThe last letter of \"Dina\" is \"a\".\n\nSo the final answer is \"s y n y a\".",
+        "completion": " \"s y n y a\".",
+        "answer": "snya",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Clayton Edison Debbie Elvira\" and concatenate them.",
+        "chain": " \n\nThe last letter of the first word is \"n\".\nThe last letter of the second word is \"n\".\nThe last letter of the third word is \"e\".\nThe last letter of the fourth word is \"a\".\n\nSo the final answer is \"nnnea\".",
+        "completion": " \"nnnea\".",
+        "answer": "nnea",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Sal Scott Myrna Maximo\" and concatenate them.",
+        "chain": " \n\nThe last letter of the first word is \"t\".\nThe last letter of the second word is \"t\".\nThe last letter of the third word is \"a\".\nThe last letter of the fourth word is \"o\".\n\nTherefore, the final answer is \"ttao\".",
+        "completion": " \"ttao\".",
+        "answer": "ltao",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Maria Elena Dewayne Mj Elliott\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Maria\" is \"a\".\nThe last letter of \"Elena\" is \"a\".\nThe last letter of \"Dewayne\" is \"e\".\nThe last letter of \"Mj\" is \"j\".\nThe last letter of \"Elliott\" is \"t\".\n\nTherefore, the final answer is \"aaeejt\".",
+        "completion": " \"aaeejt\".",
+        "answer": "aejt",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Krishna Catalina Eileen Teddy\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Krishna\" is \"a\". \nThe last letter of \"Catalina\" is \"a\". \nThe last letter of \"Eileen\" is \"n\". \nThe last letter of \"Teddy\" is \"y\". \n\nSo the final answer is \"aayan\".",
+        "completion": " \"aayan\".",
+        "answer": "aany",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Drew Jhon Jayden Cliff\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Drew\" is \"w\".\nThe last letter of \"Jhon\" is \"n\".\nThe last letter of \"Jayden\" is \"n\".\nThe last letter of \"Cliff\" is \"f\".\n\nSo the final answer is \"wnnf\".",
+        "completion": " wnnf.",
+        "answer": "wnnf",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Trish Vero Victor Clemente\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Trish\" is \"h\".\nThe last letter of \"Vero\" is \"o\".\nThe last letter of \"Victor\" is \"r\".\nThe last letter of \"Clemente\" is \"e\".\n\nSo, the final answer would be \"hore\".",
+        "completion": " \"hore\".",
+        "answer": "hore",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Juliet Ricardo Tita Dianna\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Juliet\" is \"t\".\nThe last letter of \"Ricardo\" is \"o\".\nThe last letter of \"Tita\" is \"a\".\nThe last letter of \"Dianna\" is \"a\".\n\nSo the final answer would be \"t-o-a-a\" (without the quotation marks).",
+        "completion": " \"toaa\".",
+        "answer": "toaa",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Donald Lia Gonzalo Lily\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Donald\" is \"d\".\nThe last letter of \"Lia\" is \"a\".\nThe last letter of \"Gonzalo\" is \"o\".\nThe last letter of \"Lily\" is \"y\".\n\nSo the final answer is \"day\".",
+        "completion": " \"day\".",
+        "answer": "daoy",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Georgina Joshua Lindsey C\u00e9sar\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Georgina\" is \"a\".\nThe last letter of \"Joshua\" is \"h\".\nThe last letter of \"Lindsey\" is \"y\".\nThe last letter of \"C\u00e9sar\" is \"r\".\n\nSo the final answer would be \"ahyr\".",
+        "completion": " \"ahyr\".",
+        "answer": "aayr",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"King Edith Traci Flor\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"King\" is \"g\".\nThe last letter of \"Edith\" is \"h\".\nThe last letter of \"Traci\" is \"i\".\nThe last letter of \"Flor\" is \"r\".\n\nSo the final answer would be \"ghir\".",
+        "completion": " \"ghir\".",
+        "answer": "ghir",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Jon Heath Reynaldo Catherine\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Jon\" is \"n\".\nThe last letter of \"Heath\" is \"h\".\nThe last letter of \"Reynaldo\" is \"o\".\nThe last letter of \"Catherine\" is \"e\".\n\nSo the final answer is \"nhoe\".",
+        "completion": " \"nhoe\".",
+        "answer": "nhoe",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Christina Edna Ileana Lynette\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Christina\" is \"a\".\nThe last letter of \"Edna\" is \"a\".\nThe last letter of \"Ileana\" is \"a\".\nThe last letter of \"Lynette\" is \"e\".\n\nSo the final answer is \"aaae\".",
+        "completion": " \"aaae\".",
+        "answer": "aaae",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Debora Jayson Donna Sai\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Debora\" is \"a\".\nThe last letter of \"Jayson\" is \"n\".\nThe last letter of \"Donna\" is \"a\".\nThe last letter of \"Sai\" is \"i\".\n\nSo the final answer would be \"anai\".",
+        "completion": " \"anai\".",
+        "answer": "anai",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Sunny Trisha Paul Guy\" and concatenate them.",
+        "chain": " \n\nThe last letter of the first word is \"y\".\nThe last letter of the second word is \"a\".\nThe last letter of the third word is \"l\".\nThe last letter of the fourth word is \"y\".\n\nSo the final answer is \"yaly\".",
+        "completion": " \"yaly\".",
+        "answer": "yaly",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Theo Sheila Mariana Esmeralda\" and concatenate them.",
+        "chain": " \n\nTheo: Theo's last letter is o, so we'll write o.\nSheila: Sheila's last letter is a, so we'll write a.\nMariana: Mariana's last letter is a, so we'll write a.\nEsmeralda: Esmeralda's last letter is a, so we'll write a.\n\nNow we have o, a, a, a. We can concatenate these letters to get oaaaa.",
+        "completion": " oaaaa.",
+        "answer": "oaaa",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Cristal Roxana Rajesh Danny\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Cristal\" is \"l\".\nThe last letter of \"Roxana\" is \"a\".\nThe last letter of \"Rajesh\" is \"h\".\nThe last letter of \"Danny\" is \"y\".\n\nSo, the final answer is \"l-a-h-y\".",
+        "completion": " \"l-a-h-y\".",
+        "answer": "lahy",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Geovanny Tom Katelyn Jennifer\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Geovanny\" is \"y\".\nThe last letter of \"Tom\" is \"m\".\nThe last letter of \"Katelyn\" is \"n\".\nThe last letter of \"Jennifer\" is \"r\".\n\nSo the final answer would be \"ynmr\".",
+        "completion": " \"ynmr\".",
+        "answer": "ymnr",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Buddy Violet Johana Tina\" and concatenate them.",
+        "chain": " \n\nThe last letter of the first word is \"y\".\nThe last letter of the second word is \"t\".\nThe last letter of the third word is \"a\".\nThe last letter of the fourth word is \"a\".\n\nSo the final answer is \"ytaa\".",
+        "completion": " \"ytaa\".",
+        "answer": "ytaa",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Pauline Kerry Jeannette Hope\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Pauline\" is \"e\".\nThe last letter of \"Kerry\" is \"y\".\nThe last letter of \"Jeannette\" is \"e\".\nThe last letter of \"Hope\" is \"e\".\n\nSo the final answer is \"eyee\".",
+        "completion": " \"eyee\".",
+        "answer": "eyee",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Chloe Flaco Theodore Nathalie\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Chloe\" is \"e\".\nThe last letter of \"Flaco\" is \"o\".\nThe last letter of \"Theodore\" is \"e\".\nThe last letter of \"Nathalie\" is \"e\".\n\nSo the final answer would be \"eoeoe\".",
+        "completion": " \"eoeoe\".",
+        "answer": "eoee",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Agnes Adrienne Haley Riley\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Agnes\" is \"s\".\nThe last letter of \"Adrienne\" is \"e\".\nThe last letter of \"Haley\" is \"y\".\nThe last letter of \"Riley\" is \"y\".\n\nSo, the final answer is \"s-e-y-y\" (without the quotation marks).",
+        "completion": " \"seyy\".",
+        "answer": "seyy",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Noelia Cassidy Ashok Francisco\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Noelia\" is \"a\".\nThe last letter of \"Cassidy\" is \"y\".\nThe last letter of \"Ashok\" is \"k\".\nThe last letter of \"Francisco\" is \"o\".\n\nSo the final answer would be \"ayko\".",
+        "completion": " \"ayko\".",
+        "answer": "ayko",
+        "initial_correct": true
+    },
+    {
+        "input": "Take the last letters of each words in \"Charmaine Vic Homero Jeanine\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Charmaine\" is \"e\". \nThe last letter of \"Vic\" is \"c\". \nThe last letter of \"Homero\" is \"o\". \nThe last letter of \"Jeanine\" is \"e\". \n\nIf we put all these letters together, we get \"eccoe\".",
+        "completion": " \"eccoe\".",
+        "answer": "ecoe",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Marco Antonio Suzette Roland Isabel\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Marco\" is \"o\". \nThe last letter of \"Antonio\" is \"o\". \nThe last letter of \"Suzette\" is \"e\". \nThe last letter of \"Roland\" is \"d\". \nThe last letter of \"Isabel\" is \"l\". \n\nIf we put all these letters together, we get \"oodel\".",
+        "completion": " \"oodel\".",
+        "answer": "oedl",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Tim Candace Cecil Misael\" and concatenate them.",
+        "chain": " \n\nThe last letter of \"Tim\" is \"m\".\nThe last letter of \"Candace\" is \"e\".\nThe last letter of \"Cecil\" is \"l\".\nThe last letter of \"Misael\" is \"l\".\n\nSo the final answer would be \"mel\".",
+        "completion": " \"mel\".",
+        "answer": "mell",
+        "initial_correct": false
+    },
+    {
+        "input": "Take the last letters of each words in \"Rich Parker Edward Milagros\" and concatenate them.",
+        "chain": " \n\nThe last letter of the first word is \"r\". \nThe last letter of the second word is \"r\". \nThe last letter of the third word is \"d\". \nThe last letter of the fourth word is \"s\". \n\nSo the final answer is \"rrds\".",
+        "completion": " \"rrds\".",
+        "answer": "hrds",
+        "initial_correct": false
+    }
+]

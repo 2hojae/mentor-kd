@@ -1,0 +1,602 @@
+[
+    {
+        "input": "Frank was reading through his favorite book. The book had 555 pages equally distributed over 5 chapters. It took Frank 220 days to finish the book. How many pages are in each chapter?\n",
+        "answer": "111"
+    },
+    {
+        "input": "There are 142 bananas and 356 oranges in Philip's collection. If the bananas are organized into 47 groups and oranges are organized into 178 groups How big is each group of oranges?\n",
+        "answer": "2"
+    },
+    {
+        "input": "A chef had 58 apples. After making some pies, he had used 35. How many apples remained?\n",
+        "answer": "23"
+    },
+    {
+        "input": "Jesse's room is 19 feet wide and 20 feet long. How much longer is her room than it is wide?\n",
+        "answer": "1"
+    },
+    {
+        "input": "Julia played tag with 14 kids on tuesday. If she played tag with 8 more kids on monday than on tuesday How many kids did she play with on monday?\n",
+        "answer": "22"
+    },
+    {
+        "input": "Lewis earns $ 403 every week during the 233 weeks of harvest. If he has to pay $ 49 rent every week How much money does he earn during harvest season?\n",
+        "answer": "93899"
+    },
+    {
+        "input": "If you had 4 bags with equal number of cookies and 36 cookies in total How many cookies does each bag have?\n",
+        "answer": "9"
+    },
+    {
+        "input": "19 red peaches, 11 yellow peaches and 12 green peaches are in the basket. How many more red peaches than yellow peaches are in the basket?\n",
+        "answer": "8"
+    },
+    {
+        "input": "Bobby had 22 pieces of candy. He ate some pieces of candy. Then he ate 5 more. If he still has 8 pieces of candy left How many pieces of candy had he eaten at the start?\n",
+        "answer": "9"
+    },
+    {
+        "input": "There are 14 different movies and 15 different books in the ' crazy silly school ' series. If you read 11 of the books and watched 40 of the movies How many more books than movies are there in the ' crazy silly school ' series?\n",
+        "answer": "1"
+    },
+    {
+        "input": "Edward spent $ 6 to buy books and $ 16 to buy pens. Now he has $ 19. How much did Edward have before he spent his money?\n",
+        "answer": "41"
+    },
+    {
+        "input": "Melissa played 3 games and scored a total of 81 points scoring the same for each game. How many points did she score in each game?\n",
+        "answer": "27"
+    },
+    {
+        "input": "A book has 3 chapters. The first chapter is 53 pages long the second chapter is 75 pages long and the third chapter is 21 pages long. How many more pages does the first chapter have than the third chapter?\n",
+        "answer": "32"
+    },
+    {
+        "input": "4 birds and 6 storks were sitting on the fence. 2 more storks came to join them. How many storks are sitting on the fence?\n",
+        "answer": "8"
+    },
+    {
+        "input": "Marco and his dad went strawberry picking. Together their strawberries weighed 20 pounds. His dad's strawberries weighed 17 pounds. How much did marco's strawberries weigh?\n",
+        "answer": "3"
+    },
+    {
+        "input": "Haley grew 9 trees in her backyard. After a typhoon 4 died. Then she grew 5 more trees. How many trees does she have left?\n",
+        "answer": "10"
+    },
+    {
+        "input": "Dan has $ 5. He bought a chocolate for $ 3 and a candy bar for $ 7. How much money did he spend to buy candy bar than he did to buy chocolate?\n",
+        "answer": "4"
+    },
+    {
+        "input": "Jessie weighed 92 kilograms. After she started to go jogging everyday she lost 56 kilograms in the first week and 99 kilograms in the second week. How much did she weigh after the first week of jogging?\n",
+        "answer": "36"
+    },
+    {
+        "input": "For the walls of the house John would use large planks of wood. Each plank needs 2 pieces of nails to be secured and he would use 16 planks. How many nails does John need for the house wall?\n",
+        "answer": "32"
+    },
+    {
+        "input": "Julia played tag with 7 kids on monday and 13 kids on tuesday. She played cards wtih 20 kids on wednesday. How many kids did she play tag with altogether?\n",
+        "answer": "20"
+    },
+    {
+        "input": "Baker made 13 cakes. He sold 91 of them and bought 154 new cakes. How many more cakes did baker buy than those he sold?\n",
+        "answer": "63"
+    },
+    {
+        "input": "There are 8 different movies and 21 different books in the ' crazy silly school ' series. If you read 7 of the books and watched 4 of the movies How many more movies do you still have to watch?\n",
+        "answer": "4"
+    },
+    {
+        "input": "Jack received 10 emails in the morning, 7 emails in the afternoon and 17 emails in the evening. How many more emails did Jack receive in the morning than in the afternoon?\n",
+        "answer": "3"
+    },
+    {
+        "input": "Bryan took a look at his books as well. If he has 34 books distributed equally in 2 bookshelves How many books are there in each bookshelf?\n",
+        "answer": "17"
+    },
+    {
+        "input": "For the walls of the house he would use 11 nails in all to secure large planks of wood. If each plank needs 3 pieces of nails to be secured and an additional 8 nails were used. How many planks does John need for the house wall?\n",
+        "answer": "1"
+    },
+    {
+        "input": "Rachel had to complete 3 pages of math homework and 4 pages of reading homework. How many more pages of reading homework than math homework did she have?\n",
+        "answer": "1"
+    },
+    {
+        "input": "Debby bought 360 soda bottles and 162 water bottles when they were on sale. If she drank 122 water bottles and 9 soda bottles a day How many days would the soda bottles last?\n",
+        "answer": "40"
+    },
+    {
+        "input": "There are 4 different books and 17 different movies in the ' crazy silly school ' series. If you read 19 of the books and watched 7 of the movies How many more movies do you still have to watch?\n",
+        "answer": "10"
+    },
+    {
+        "input": "There were 9 roses and 6 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 13 orchids and 3 roses in the vase. How many more orchids than roses are there in the vase now?\n",
+        "answer": "10"
+    },
+    {
+        "input": "Dave had 21 apps on his phone. He added 89 new apps. After deleting some he had 24 left. How many more apps did he add than he deleted?\n",
+        "answer": "3"
+    },
+    {
+        "input": "Baker made 157 cakes and 169 pastries. If he sold 158 cakes and 147 pastries How many more cakes than pastries did baker sell?\n",
+        "answer": "11"
+    },
+    {
+        "input": "A waiter had 12 customers. While 15 customers left he got 14 new customers. How many customers does he still have?\n",
+        "answer": "11"
+    },
+    {
+        "input": "A book has 2 chapters across 23 pages. The first chapter is 10 pages long. How many pages are in the first chapter?\n",
+        "answer": "13"
+    },
+    {
+        "input": "Mary is baking a cake. The recipe calls for 12 cups of flour and 13 cups of sugar. She already put in 2 cups of sugar. How many more cups of sugar does she need to add?\n",
+        "answer": "11"
+    },
+    {
+        "input": "Paul had 108 books and 55 pens. After selling some books and pens in a garage sale he had 66 books and 59 pens left. How many books did he sell in the garage sale?\n",
+        "answer": "42"
+    },
+    {
+        "input": "There were 8 people on the bus. At the next stop 12 more people got on the bus and 3 people got off. How many people are there on the bus now?\n",
+        "answer": "17"
+    },
+    {
+        "input": "Every day Ryan spends a total of 3 hours on learning english and chinese. If he spends 2 hours on learning english everyday How many hours does he spend on learning chinese?\n",
+        "answer": "1"
+    },
+    {
+        "input": "He then went to see the oranges being harvested. He found out that they harvest 66 sacks per day. How many oranges do they harvest per day if each sack contains 28 oranges?\n",
+        "answer": "1848"
+    },
+    {
+        "input": "Jesse needs a carpet of size 10 square feet to cover her room. If her room is 5 feet long What is the width of her room?\n",
+        "answer": "2"
+    },
+    {
+        "input": "Danny collects bottle caps. He threw away 60 of the old ones at the park while he found 58 bottle caps new ones. Now he has 67 bottle caps in his collection. How many bottle caps did danny have at first?\n",
+        "answer": "69"
+    },
+    {
+        "input": "Baker made 110 cakes. He sold 75 of them. Then he made 76 more cakes. How many cakes would baker still have?\n",
+        "answer": "111"
+    },
+    {
+        "input": "Paco had 17 cookies. He ate 14 cookies and gave 13 of them to his friend. How many more cookies did he eat than those he gave to his friend?\n",
+        "answer": "1"
+    },
+    {
+        "input": "At the arcade Dave had won 19 tickets. If he used 12 to buy some toys and 7 more to buy some clothes How many more tickets did Dave use to buy toys than he did to buy clothes?\n",
+        "answer": "5"
+    },
+    {
+        "input": "A book has 3 chapters. The first chapter is 35 pages long the second chapter is 18 pages long and the third chapter is 3 pages long. How many more pages does the second chapter have than the third chapter?\n",
+        "answer": "15"
+    },
+    {
+        "input": "Because of the decision Sofia asked the students to suggest specific types of food. If 479 students suggested adding mashed potatoes while 489 suggested adding bacon to the menu How many more students suggested bacon than those that suggested mashed potatoes?\n",
+        "answer": "10"
+    },
+    {
+        "input": "There are some bananas in Philip's banana collection. If the bananas are organized into 140 groups of size 187 How many bananas does he have in his collection?\n",
+        "answer": "26180"
+    },
+    {
+        "input": "The bananas in Philip's collection are organized into groups of size 18. If there are a total of 180 bananas in Philip's banana collection How many groups are there?\n",
+        "answer": "10"
+    },
+    {
+        "input": "Allan brought 3 balloons and 20 balls while Jake brought 5 balloons and 59 balls to the park. How many balloons did Allan and Jake have in the park?\n",
+        "answer": "8"
+    },
+    {
+        "input": "Matthew had 31 crackers. He has 23 crackers left after he gave equal numbers of crackers to his 5 friends. How many crackers did Matthew give to his friends?\n",
+        "answer": "8"
+    },
+    {
+        "input": "There were 15 roses and 62 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 17 roses and 96 orchids in the vase. How many roses did she cut?\n",
+        "answer": "2"
+    },
+    {
+        "input": "Frank put 11 pieces of candy in each bag. If he had 22 pieces of candy How many bags would he have?\n",
+        "answer": "2"
+    },
+    {
+        "input": "Rachel had to complete 9 pages of math homework, 2 pages of reading homework and 96 more pages of biology homework. How many more pages of math homework than reading homework did she have?\n",
+        "answer": "7"
+    },
+    {
+        "input": "Because of the decision Sofia asked the students to suggest specific types of food. If 144 students suggested adding mashed potatoes 467 suggested adding bacon to the menu and 79 suggested adding tomatoes How many more students suggested mashed potatoes than those that suggested tomatoes?\n",
+        "answer": "65"
+    },
+    {
+        "input": "Julia played tag with 4 kids on wednesday. She had played with 6 kids on monday and 17 kids on tuesday. How many more kids did she play with on monday than on wednesday?\n",
+        "answer": "2"
+    },
+    {
+        "input": "Danny collects bottle caps. He threw away 6 of the old ones at the park while he found 50 bottle caps new ones. Now he has 60 bottle caps in his collection. How many more bottle caps did danny find at the park than those he threw away?\n",
+        "answer": "44"
+    },
+    {
+        "input": "There are 87 oranges and 290 bananas in Philip's collection. If the bananas are organized into 2 groups and oranges are organized into 93 groups How big is each group of bananas?\n",
+        "answer": "145"
+    },
+    {
+        "input": "Winter is almost here and most animals are migrating to warmer countries. There are 18 bird families living near the mountain. If 38 bird families flew away to africa and 80 bird families flew away to asia How many bird families flew away for the winter?\n",
+        "answer": "118"
+    },
+    {
+        "input": "Paul had 2 books. After selling some in a garage sale he bought 150 new ones. If he has 58 books now How many books did he sell?\n",
+        "answer": "94"
+    },
+    {
+        "input": "An industrial machine can make 3 shirts a minute. It made 4 shirts yesterday and 8 shirts today. How many minutes did the machine work in all?\n",
+        "answer": "4"
+    },
+    {
+        "input": "Rachel's tree had 4 apples initially. She picked some apples and now there are 2 apples left on the tree. How many apples did rachel pick?\n",
+        "answer": "2"
+    },
+    {
+        "input": "In Haley's class some boys love to play marbles. If Haley has 10 marbles and she gave 5 marbles to each boy How many boys did she give the marbles to?\n",
+        "answer": "2"
+    },
+    {
+        "input": "Baker made 144 cakes. He sold 71 of them. Then he made 111 more cakes. How many more cakes did baker make than those he sold?\n",
+        "answer": "184"
+    },
+    {
+        "input": "Carol was sending out birthday invitations to her friends. Each package of invitations she bought had 10 invitations in it and she bought 7 packs. If she sends invitations to only 2 friends How many invitations will be left?\n",
+        "answer": "68"
+    },
+    {
+        "input": "Next on his checklist is wax to stick the feathers together and colors to paint them. He needs a total of 49 g of colors to paint them. If the feathers require 288 g of wax and right now he just needs 260 g How many grams of wax does he already have?\n",
+        "answer": "28"
+    },
+    {
+        "input": "Mary is baking a cake. The recipe calls for 12 cups of flour and 5 cups of sugar. She already put in some cups of flour. If she still needs 2 more cups of flour How many cups of flour did she put in?\n",
+        "answer": "10"
+    },
+    {
+        "input": "During summer break 907611 kids from Lawrence county stay home and the other 455682 kids go to camp. About how many kids are in Lawrence county?\n",
+        "answer": "1363293"
+    },
+    {
+        "input": "The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 21 inches. The grasshopper jumped 25 inches farther than the frog and the mouse jumped 16 inches lesser than the frog. How much farther did the grasshopper jump than the mouse?\n",
+        "answer": "41"
+    },
+    {
+        "input": "Mary is baking a cake. The recipe calls for 10 cups of flour 2 cups of sugar and 80 cups of salt. She already put in 7 cups of flour. How many more cups of flour than cups of sugar does she need to add now?\n",
+        "answer": "1"
+    },
+    {
+        "input": "In a school there are 569 girls and 236 boys. How many more girls than boys does the school have?\n",
+        "answer": "333"
+    },
+    {
+        "input": "Faye was placing her pencils into rows with 16 pencils in each row. She had 28 packs of pencils each one having 24 pencils. How many rows could she make?\n",
+        "answer": "42"
+    },
+    {
+        "input": "Jessie currently weighs 27 kilograms. After she started to go jogging everyday she lost 101 kilograms. How much did she weigh before starting to jog?\n",
+        "answer": "128"
+    },
+    {
+        "input": "Jesse's room is 11 feet long and 15 feet wide. If she already has 16 square feet of carpet How much more carpet does she need to cover the whole floor?\n",
+        "answer": "149"
+    },
+    {
+        "input": "At the arcade Dave had won 14 tickets and lost 2 tickets. If he used 10 to buy some toys How many tickets did Dave have left?\n",
+        "answer": "2"
+    },
+    {
+        "input": "White t - shirts can be purchased in packages. If mom buys 28 packages which contain 56 white t - shirts in total How many white t - shirts does each package have?\n",
+        "answer": "2"
+    },
+    {
+        "input": "Katie had 91 ds games and her new friends had 88 games and old friends had 53 games. How many games do her friends have in all?\n",
+        "answer": "141"
+    },
+    {
+        "input": "Lucy went to the grocery store. She bought 10 packs of cookie and 4 packs of cake. How many more packs of cookie did she buy over cake?\n",
+        "answer": "6"
+    },
+    {
+        "input": "Rebecca wants to split a collection of eggs into groups of 5. Rebecca has 10 marbles and 15 eggs. How many groups will be created?\n",
+        "answer": "3"
+    },
+    {
+        "input": "Frank was reading through some books. Each book had 66 pages and it took Frank 12 days to finish each book. If he takes 492 days to finish all books How many books did he read?\n",
+        "answer": "41"
+    },
+    {
+        "input": "Jerry had 7 books and 3 action figures on a shelf in his room. Later he added 2 more action figures to the shelf. How many more books than action figures were on his shelf?\n",
+        "answer": "2"
+    },
+    {
+        "input": "There were 174 parents in the program and 521 pupils too. How many more pupils were present compared to parents in the program?\n",
+        "answer": "347"
+    },
+    {
+        "input": "Every day Ryan spends 7 hours on learning english and some more hours on learning chinese. If he spends 2 hours more on learning english than on learning chinese How many hours does he spend on learning chinese?\n",
+        "answer": "5"
+    },
+    {
+        "input": "Robin has 28 packages of gum and 14 packages of candy. There are 6 pieces in each package. How many pieces does Robin have?\n",
+        "answer": "7"
+    },
+    {
+        "input": "There were 106 dollars in Olivia's wallet. After she visited a supermarket and a showroom there were 26 dollars left. If she spent 49 dollars at the showroom How much did she spend at the supermarket?\n",
+        "answer": "31"
+    },
+    {
+        "input": "They decided to hold the party in their backyard. They have 12 sets of tables and each set has 14 chairs. There are also 6 chairs extra. How many chairs do they have for the guests?\n",
+        "answer": "174"
+    },
+    {
+        "input": "Mary is baking a cake. The recipe calls for 9 cups of sugar 14 cups of flour and 40 cups of salt. She already put in 4 cups of flour. How many more cups of flour than cups of sugar does she need to add now?\n",
+        "answer": "1"
+    },
+    {
+        "input": "Baker made 54 cakes and 143 pastries. If he sold 68 cakes and 92 pastries How many more pastries than cakes did baker sell?\n",
+        "answer": "24"
+    },
+    {
+        "input": "Jessie currently weighs 9 kilograms. After she started to go jogging everyday she lost 62 kilograms in the first week and 140 kilograms in the second week. How much did she weigh before starting to jog?\n",
+        "answer": "211"
+    },
+    {
+        "input": "Paco had 13 cookies. He ate 2 of them. Then he bought 36 more cookies How many more cookies did he buy than those he ate?\n",
+        "answer": "34"
+    },
+    {
+        "input": "Paco had 9 sweet cookies and 6 salty cookies. He ate 36 sweet cookies and 3 salty cookies. How many salty cookies did Paco have left?\n",
+        "answer": "3"
+    },
+    {
+        "input": "Carol was sending out birthday invitations to her friends. Each package of invitations she bought had 3 invitations in it and she bought 2 packs. If she wants to invite 9 friends How many extra invitations will she need to buy?\n",
+        "answer": "3"
+    },
+    {
+        "input": "Rachel had to complete 2 pages of math homework, 3 pages of reading homework and 10 more pages of biology homework. How many pages did she have to complete in all?\n",
+        "answer": "15"
+    },
+    {
+        "input": "Paul had 21 books. After selling some in a garage sale he bought 42 new ones. If he has 15 books now How many more books did he sell than he bought?\n",
+        "answer": "6"
+    },
+    {
+        "input": "The Ferris wheel in paradise park has some seats. Each seat can hold 9 people. If 18 people can ride the wheel at the same time How many seats does the Ferris wheel have?\n",
+        "answer": "2"
+    },
+    {
+        "input": "Josh had 20 marbles in his collection. He gave 2 marbles to Jack. How many marbles does Josh have now?\n",
+        "answer": "18"
+    },
+    {
+        "input": "White t - shirts can be purchased in packages of 13. If mom buys 39 white t - shirts How many packages will she have?\n",
+        "answer": "3"
+    },
+    {
+        "input": "Because of the decision Sofia asked the students to suggest specific types of food. If 218 students suggested adding mashed potatoes as well as bacon while 351 suggested adding only bacon to the menu How many students suggested adding bacon?\n",
+        "answer": "569"
+    },
+    {
+        "input": "Zachary did 44 push-ups and 17 crunches in gym class today. David did 29 more push-ups but 13 less crunches than zachary. How many crunches did David do?\n",
+        "answer": "4"
+    },
+    {
+        "input": "Steven has 19 peaches. Jake has 12 fewer peaches than Steven and 72 more peaches than Jill. How many peaches does Jake have?\n",
+        "answer": "7"
+    },
+    {
+        "input": "After Olivia visited a supermarket there were 29 dollars left. If there were 54 dollars in her wallet initially How much did she spend?\n",
+        "answer": "25"
+    },
+    {
+        "input": "Mary is baking a cake. The recipe calls for 14 cups of flour and 6 cups of sugar. She already put in 5 cups of flour. How many more cups of flour than cups of sugar does she need to add now?\n",
+        "answer": "3"
+    },
+    {
+        "input": "Matthew gave equal numbers of crackers and cakes to his 4 friends. If he had 32 crackers and 98 cakes initially How many crackers did each person eat?\n",
+        "answer": "8"
+    },
+    {
+        "input": "Josh had some marbles in his collection. He lost 21 marbles. If he has 12 marbles now How many marbles did he have in his collection?\n",
+        "answer": "33"
+    },
+    {
+        "input": "The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 36 inches. The frog jumped 17 inches farther than the grasshopper and the mouse jumped 15 inches farther than the frog. How far did the frog jump?\n",
+        "answer": "53"
+    },
+    {
+        "input": "Last week Fred had 60 dollars and Jason had 19 dollars. Jason washed cars over the weekend and now has 33 dollars. How much money did Jason make washing cars?\n",
+        "answer": "14"
+    },
+    {
+        "input": "Jesse's rooms are 19 feet long and 18 feet wide. If she has 20 rooms in all How much carpet does she need to cover the floors of all rooms?\n",
+        "answer": "6840"
+    },
+    {
+        "input": "If Lewis earns a total of $ 460 during 5 weeks of harvest How much money does he earn each week?\n",
+        "answer": "92"
+    },
+    {
+        "input": "Danny collects bottle caps and wrappers. He found 46 wrappers and 50 bottle caps at the park. Now he has 21 bottle caps and 52 wrappers in his collection. How many more bottle caps than wrappers did danny find at the park?\n",
+        "answer": "4"
+    },
+    {
+        "input": "A grocery store had 22 bottles of regular soda and 61 bottles of diet soda. How many more bottles of diet soda than regular soda did they have?\n",
+        "answer": "39"
+    },
+    {
+        "input": "Rebecca wants to split a collection of marbles into groups of 4. Rebecca has 10 eggs and 20 marbles. How many groups will be created?\n",
+        "answer": "5"
+    },
+    {
+        "input": "Every day Ryan spends 6 hours on learning english and 2 hours on learning chinese. How many more hours does he spend on learning english than he does on learning chinese?\n",
+        "answer": "4"
+    },
+    {
+        "input": "Bobby ate 17 pieces of candy. Then he ate 15 more. If he initially had 36 pieces of candy How many pieces of candy does he still have left?\n",
+        "answer": "4"
+    },
+    {
+        "input": "In Haley's class 11 are boys who love to play marbles. If Haley gives 9 marbles to each boy How many marbles did she have?\n",
+        "answer": "99"
+    },
+    {
+        "input": "A book has 2 chapters. The first chapter is 60 pages long. If there are a total of 93 pages in the book How many pages are in the second chapter?\n",
+        "answer": "33"
+    },
+    {
+        "input": "A grocery store had a total of 30 bottles of which 28 were bottles of regular soda and the rest were bottles of diet soda. How many bottles of diet soda did they have?\n",
+        "answer": "2"
+    },
+    {
+        "input": "There are 8 different books and 10 different movies in the ' crazy silly school ' series. If you read 19 of the books and watched 61 of the movies How many more movies than books are there in the ' crazy silly school ' series?\n",
+        "answer": "2"
+    },
+    {
+        "input": "The Razorback shop makes $ 5 dollars off each jersey and $ 215 off each t-shirt. During the Arkansas and Texas tech game they sold 20 t-shirts and 64 jerseys. How much money did they make from selling the t-shirts?\n",
+        "answer": "4300"
+    },
+    {
+        "input": "Jack received 3 emails in the afternoon, 5 emails in the morning and 16 emails in the evening. How many more emails did Jack receive in the morning than in the afternoon?\n",
+        "answer": "2"
+    },
+    {
+        "input": "Last week Fred had 19 dollars and Jason had 16 dollars. They washed cars over the weekend and now Fred has 40 dollars and Jason has 69 dollars. How much money did Fred earn over the weekend?\n",
+        "answer": "21"
+    },
+    {
+        "input": "Luke gained 146 points in each round of a game. If he played 157 rounds of a trivia game How many points did he score in the game?\n",
+        "answer": "22922"
+    },
+    {
+        "input": "Paco had 28 cookies. He ate some of them and had 7 cookies left. How many cookies did Paco eat?\n",
+        "answer": "21"
+    },
+    {
+        "input": "During summer break 819058 kids from Lawrence county go to camp and the other 668278 kids stay home. How many more kids spent their summer break at the camp compared to those who stayed home?\n",
+        "answer": "150780"
+    },
+    {
+        "input": "If you had 33 cookies and each bag has 11 cookies How many bags of cookies do you have?\n",
+        "answer": "3"
+    },
+    {
+        "input": "After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 703 visitors came to the Buckingham palace on the previous day. If there were 246 visitors on that day How many visited the Buckingham palace within 25 days?\n",
+        "answer": "949"
+    },
+    {
+        "input": "Robin has 28 packages of gum and 13 packages of candy. There are 4 pieces in each package. How many pieces of gum does Robin have?\n",
+        "answer": "112"
+    },
+    {
+        "input": "Paul got a box of 589 crayons for his birthday. During the school year he gave 571 crayons to his friends while he lost 161 crayons. How many more crayons did he give to his friends than those he lost?\n",
+        "answer": "410"
+    },
+    {
+        "input": "Every day Ryan spends 6 hours on learning english 7 hours on learning chinese and 3 hours on learning spanish. How many hours does he spend on learning english, chinese and spanish in all?\n",
+        "answer": "16"
+    },
+    {
+        "input": "After resting they decided to go for a swim. The depth of the water is 2 times Dean's height. Dean is 8 feet shorter than Ron. If Ron stands at 14 feet How deep was the water?\n",
+        "answer": "12"
+    },
+    {
+        "input": "There are 18 bananas in Philip's banana collection. If the bananas are organized into groups of size 2 How many groups are there?\n",
+        "answer": "9"
+    },
+    {
+        "input": "Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 197 chocolate chip cookies and 46 raisin cookies yesterday. And she baked 75 raisin cookies and 66 chocolate chip cookies this morning. How many more chocolate chip cookies did Helen bake yesterday compared to today?\n",
+        "answer": "131"
+    },
+    {
+        "input": "An industrial machine can make 3 shirts per minute. It made 6 shirts in all. How many minutes was the machine working?\n",
+        "answer": "2"
+    },
+    {
+        "input": "There were some roses in the vase. Jessica cut 16 more roses from her flower garden and put them in the vase. There are now 23 roses in the vase. How many roses were there in the vase at the beginning?\n",
+        "answer": "7"
+    },
+    {
+        "input": "There are 7 baskets of peaches. Each basket has 10 red peaches and 2 green peaches. How many green peaches are in the baskets altogether?\n",
+        "answer": "14"
+    },
+    {
+        "input": "Because of the decision Sofia asked the students to suggest specific types of food. If 324 students suggested adding mashed potatoes 374 suggested adding bacon to the menu and 128 suggested adding tomatoes How many students participated in the suggestion of new food items?\n",
+        "answer": "826"
+    },
+    {
+        "input": "Bryan took a look at his books as well. Each bookshelf contains 2 books. If he has a total of 38 books How many bookshelves does he have?\n",
+        "answer": "19"
+    },
+    {
+        "input": "3 birds and 2 storks were sitting on the fence. 5 more birds came to join them. How many birds and storks are sitting on the fence?\n",
+        "answer": "10"
+    },
+    {
+        "input": "There are 141 pots. Each pot has 71 flowers and 91 sticks in it. How many flowers are there in all?\n",
+        "answer": "10011"
+    },
+    {
+        "input": "Tiffany was collecting cans for recycling. On monday she had 3 bags of cans. The next day she found 7 more bags of cans and 44 bags of bottles. How many bags of cans did she have altogether?\n",
+        "answer": "10"
+    },
+    {
+        "input": "Jack received 3 emails in the morning, 4 emails in the afternoon and 8 emails in the evening. How many emails did Jack receive in the morning and evening?\n",
+        "answer": "11"
+    },
+    {
+        "input": "Olivia spent 78 dollars at a supermarket. If she has 33 dollars left with her How much money did she have initially?\n",
+        "answer": "111"
+    },
+    {
+        "input": "Jake has 6 fewer peaches and 8 more apples than Steven. Steven has 17 peaches and 16 apples. How many more peaches than apples does Steven have?\n",
+        "answer": "1"
+    },
+    {
+        "input": "There were 61 parents in the program and 177 pupils too. The program could seat 44 people How many people were present in the program?\n",
+        "answer": "238"
+    },
+    {
+        "input": "Faye had 31 packs of pencils each one having 6 pencils. She was placing her pencils into rows with 19 pencils in each row. How many pencils does she have?\n",
+        "answer": "186"
+    },
+    {
+        "input": "Haley has 20 marbles. In her class 2 boys love to play marbles. If she distributes her marbles equally How many will each of the boys receive?\n",
+        "answer": "10"
+    },
+    {
+        "input": "Mom buys 51 white t - shirts. If white t - shirts can be purchased in packages of 3 How many packages will she have?\n",
+        "answer": "17"
+    },
+    {
+        "input": "After resting they decided to go for a swim. The depth of the water is 16 times Ron's height. Dean is 9 feet taller than Ron. If Ron stands at 13 feet How deep was the water?\n",
+        "answer": "208"
+    },
+    {
+        "input": "Jack received 5 emails in the morning, 8 emails in the afternoon and 72 emails in the evening. How many emails did Jack receive in the morning and afternoon?\n",
+        "answer": "13"
+    },
+    {
+        "input": "Julia played tag with 15 kids on monday, 18 kids on tuesday and 97 kids on wednesday. How many kids did she play with on monday and tuesday?\n",
+        "answer": "33"
+    },
+    {
+        "input": "Jerry had 7 action figures on a shelf in his room. Later he added some more action figures to the shelf and removed 10 of the old ones. If there are 8 action figures on his shelf now How many action figures did he add to the shelf?\n",
+        "answer": "11"
+    },
+    {
+        "input": "46 campers went rowing on a day. 43 campers went rowing in the morning and some more campers went rowing in the afternoon. How many campers went rowing in the afternoon?\n",
+        "answer": "3"
+    },
+    {
+        "input": "Jerry had 5 action figures and 2 books on a shelf in his room. Later he added 9 more books to the shelf. How many more books than action figures were on his shelf?\n",
+        "answer": "6"
+    }
+]
